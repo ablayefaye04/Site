@@ -54,7 +54,7 @@ body {
 .hero-section {
   position: relative;
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('media/Capture\ d’écran\ \(239\).png') no-repeat center center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('media/couv.jpeg') no-repeat center center/cover;
   display: flex;
   align-items: center;
   justify-content: center;
